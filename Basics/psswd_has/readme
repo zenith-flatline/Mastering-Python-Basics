@@ -1,0 +1,6 @@
+Password hashing
+
+use system.out.print to pass text to haser and to receive the hash
+
+ex:
+system.out.print('xxxx')
