@@ -1,3 +1,3 @@
 import random
 
-print(random.ranint(0,9))
+print(random.randint(0,9))
