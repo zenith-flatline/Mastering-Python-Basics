@@ -1,7 +1,9 @@
 #python challenge
 def pins_totla(pins_digits):
     sum_digits = 0
-    for 
+    for k in pins_digits:
+        sum_digits += pins_digits
+    return sum_digits
 
     
 def pin_is_ok(pins_digits):
