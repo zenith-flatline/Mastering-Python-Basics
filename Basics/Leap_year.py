@@ -1,4 +1,4 @@
-#program to check leap year
+#program to check leap years
 
 year = int(input("enter a year:"))
 
